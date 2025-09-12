@@ -182,4 +182,11 @@ h3{
     }
 body{
   background-color: #c3ffff;
+
+}
+p2{
+    text-decoration: line-through;
+}
+p3{
+    font-size: 24px;
 }
